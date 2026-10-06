@@ -1,494 +1,545 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=120&section=header&text=&animation=fadeIn"/>
-
+<!-- ============ HEADER BANNER ============ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=700\&size=32\&pause=1000\&color=6E40C9\&center=true\&vCenter=true\&width=850\&lines=Abhinav+Ranjan+Singh;Backend+Engineer+%7C+AI+Engineer;Agentic+AI+%7C+Distributed+Systems)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=230&section=header&text=Abhinav%20Ranjan%20Singh&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Backend-Focused%20Software%20Developer&descSize=22&descAlignY=58&animation=fadeIn" width="100%" alt="Abhinav Ranjan Singh banner" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=00D9FF&center=true&vCenter=true&width=850&height=45&lines=Building+scalable+backend+systems;Node.js+%7C+Express.js+%7C+PostgreSQL+%7C+MongoDB;Redis+%7C+BullMQ+%7C+RabbitMQ+%7C+WebSockets;Distributed+Systems+%26+High-Concurrency+Applications;Agentic+AI+%7C+RAG+%7C+LangChain+%7C+LangGraph;1000%2B+DSA+Problems+%7C+LeetCode+Knight" alt="Typing SVG" />
 
 <br/>
 
-![B.Tech ECE](https://img.shields.io/badge/B.Tech-Electronics_%26_Communication-6E40C9?style=for-the-badge\&logo=academia\&logoColor=white)
-![IoT Specialization](https://img.shields.io/badge/Specialization-IoT-7C3AED?style=for-the-badge\&logo=raspberrypi\&logoColor=white)
-![IIIT Nagpur](https://img.shields.io/badge/IIIT-Nagpur_%7C_2023--2027-4F46E5?style=for-the-badge\&logo=google-scholar\&logoColor=white)
+<a href="https://www.linkedin.com/in/abhinav-singh">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+
+<a href="https://github.com/Abhinav053">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Abhinav053&color=00D9FF&style=flat-square&label=Profile+Views" alt="Profile views"/>
+
+</div>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6E40C9?style=for-the-badge\&logo=vercel\&logoColor=white)](https://github.com/Abhinav053)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/abhinav-singh)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Abhinav053)
+<!-- ============ ABOUT ============ -->
+<h2 align="center">⚡ About Me</h2>
+
+<table align="center">
+<tr>
+
+<td width="55%" valign="top">
+
+<p>
+I'm a <b>backend-focused software developer</b> pursuing B.Tech in
+<b>Electronics & Communication Engineering (IoT)</b> at
+<b>IIIT Nagpur</b>, graduating in <b>2027</b>.
+</p>
+
+<p>
+I enjoy designing backend systems where <b>scalability, concurrency,
+reliability and fault tolerance</b> are first-class concerns.
+</p>
+
+<ul>
+  <li>🚀 Backend systems, REST APIs & distributed architectures</li>
+  <li>⚡ Redis, BullMQ, RabbitMQ & WebSockets</li>
+  <li>🗄️ PostgreSQL, MongoDB & transactional systems</li>
+  <li>🤖 Agentic AI, RAG, LangChain & LangGraph</li>
+  <li>🔐 Authentication, idempotency & secure payment systems</li>
+  <li>📈 Load testing & high-concurrency system design</li>
+  <li>🧠 1000+ DSA problems solved</li>
+  <li>🏆 LeetCode Knight · Peak Rating 1881</li>
+</ul>
+
+</td>
+
+<td width="45%" valign="top">
+
+<pre>
+const abhinav = {
+  role: "Backend Developer",
+  education: "IIIT Nagpur",
+  graduation: "2027",
+
+  backend: [
+    "Node.js",
+    "Express.js",
+    "FastAPI"
+  ],
+
+  databases: [
+    "PostgreSQL",
+    "MongoDB",
+    "Redis"
+  ],
+
+  systems: [
+    "BullMQ",
+    "RabbitMQ",
+    "WebSockets"
+  ],
+
+  ai: [
+    "RAG",
+    "LangChain",
+    "LangGraph",
+    "Agentic AI"
+  ],
+
+  focus: [
+    "Distributed Systems",
+    "System Design",
+    "Scalable Backends"
+  ]
+};
+</pre>
+
+</td>
+
+</tr>
+</table>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Abhinav053\&label=Profile+Views\&color=6E40C9\&style=flat-square)
-![GitHub Followers](https://img.shields.io/github/followers/Abhinav053?label=Followers\&color=6E40C9\&style=flat-square\&logo=github)
+<!-- ============ TECH STACK ============ -->
+<h2 align="center">🛠️ Tech Stack</h2>
 
-</div>
+<table align="center">
 
----
+<tr>
+<td align="center" width="180"><b>💻 Languages</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,java&theme=dark" height="52" alt="Languages"/>
+</td>
+</tr>
 
-## About
+<tr>
+<td align="center"><b>⚙️ Backend</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" height="52" alt="Backend"/>
+<br/>
+<sub>REST APIs • JWT • Authentication • WebSockets • Microservices</sub>
+</td>
+</tr>
 
-I am a backend-focused software engineer and AI practitioner pursuing a B.Tech in Electronics & Communication Engineering with an IoT specialization at **IIIT Nagpur**.
+<tr>
+<td align="center"><b>🎨 Frontend</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" height="52" alt="Frontend"/>
+</td>
+</tr>
 
-My current focus is at the intersection of **backend engineering, distributed systems, and agentic AI**. I enjoy building systems where reliability, observability, evaluation, and fault tolerance are first-class concerns.
+<tr>
+<td align="center"><b>💾 Databases</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark" height="52" alt="Databases"/>
+</td>
+</tr>
 
-On the backend side, I work with **Node.js, Express.js, PostgreSQL, MongoDB, Redis, RabbitMQ, WebSockets, and Docker**, with an emphasis on asynchronous processing, scalable APIs, distributed architectures, and real-time systems.
+<tr>
+<td align="center"><b>📨 Messaging & Jobs</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=rabbitmq&theme=dark" height="52" alt="RabbitMQ"/>
+<img src="https://img.shields.io/badge/BullMQ-D0021B?style=for-the-badge" alt="BullMQ"/>
+</td>
+</tr>
 
-On the AI side, I am focused on **LangChain, LangGraph, RAG, multi-agent systems, MCP, A2A, agent evaluation, tracing, and AI guardrails**. I am particularly interested in solving problems such as incorrect agent routing, unnecessary tool calls, invalid tool arguments, broken agent trajectories, hallucinations, and failures in multi-agent workflows.
+<tr>
+<td align="center"><b>🤖 AI / GenAI</b></td>
+<td>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LangGraph-0F766E?style=for-the-badge" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/RAG-FF4081?style=for-the-badge" alt="RAG"/>
+<img src="https://img.shields.io/badge/Agentic_AI-6366F1?style=for-the-badge" alt="Agentic AI"/>
+</td>
+</tr>
 
-I approach AI applications as **systems rather than prompts** — combining orchestration, deterministic evaluation, LLM-as-a-judge evaluation, observability, policy enforcement, and regression testing to make agentic systems more reliable.
+<tr>
+<td align="center"><b>🗃️ Vector Databases</b></td>
+<td>
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge" alt="ChromaDB"/>
+</td>
+</tr>
 
-**Open To:** Backend Engineering Internships · AI/ML Engineering Roles · Agentic AI Opportunities · Open Source Collaboration · Research Projects
+<tr>
+<td align="center"><b>☁️ Tools & DevOps</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman&theme=dark" height="52" alt="Tools"/>
+</td>
+</tr>
 
----
+<tr>
+<td align="center"><b>📘 Fundamentals</b></td>
+<td>
+<img src="https://img.shields.io/badge/DSA-FFA116?style=flat-square" alt="DSA"/>
+<img src="https://img.shields.io/badge/OOP-0A66C2?style=flat-square" alt="OOP"/>
+<img src="https://img.shields.io/badge/DBMS-4479A1?style=flat-square" alt="DBMS"/>
+<img src="https://img.shields.io/badge/Computer_Networks-009688?style=flat-square" alt="Computer Networks"/>
+<img src="https://img.shields.io/badge/System_Design-8A2BE2?style=flat-square" alt="System Design"/>
+</td>
+</tr>
 
-## Tech Stack
+</table>
+
+<br/>
+
+<!-- ============ FEATURED PROJECTS ============ -->
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table align="center">
+
+<tr>
+
+<td width="33%" valign="top">
+
+<h3>💳 AtomPay</h3>
+<sub><b>FinTech Wallet Backend</b></sub>
+
+<p>
+Reliable digital wallet backend with transactional money transfers,
+idempotency and secure payment processing.
+</p>
+
+<ul>
+<li>MongoDB transactions</li>
+<li>Redis idempotency</li>
+<li>JWT authentication</li>
+<li>Transfer rate limiting</li>
+<li>Velocity controls</li>
+<li>BullMQ async processing</li>
+<li>HMAC payment webhooks</li>
+</ul>
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/BullMQ-D0021B?style=flat-square"/>
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>⚡ FlashSale</h3>
+<sub><b>Distributed Inventory System</b></sub>
+
+<p>
+High-concurrency flash-sale backend designed to maintain inventory
+correctness and prevent overselling.
+</p>
+
+<ul>
+<li>Redis Lua atomic admission</li>
+<li>PostgreSQL conditional updates</li>
+<li>BullMQ job processing</li>
+<li>Nginx load balancing</li>
+<li>MongoDB event logging</li>
+<li>WebSocket fanout</li>
+<li>k6 load testing</li>
+</ul>
+
+<p>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/BullMQ-D0021B?style=flat-square"/>
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>🤖 PlanB-AI</h3>
+<sub><b>Multi-Agent RAG Assistant</b></sub>
+
+<p>
+AI assistant combining multi-agent orchestration, RAG and vector
+retrieval for intelligent task handling.
+</p>
+
+<ul>
+<li>Multi-agent workflows</li>
+<li>RAG pipelines</li>
+<li>Semantic retrieval</li>
+<li>Qdrant vector search</li>
+<li>LangChain.js</li>
+<li>Redis</li>
+<li>MongoDB</li>
+</ul>
+
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top">
+
+<h3>🚗 Drivo</h3>
+<sub><b>Real-Time Ride Sharing Backend</b></sub>
+
+<p>
+Backend for real-time ride matching using geospatial search,
+WebSockets and asynchronous job processing.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+<img src="https://img.shields.io/badge/BullMQ-D0021B?style=flat-square"/>
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>✈️ Flight Booking Service</h3>
+<sub><b>Microservices Backend</b></sub>
+
+<p>
+Distributed airline booking system using API gateway,
+microservices and event-driven communication.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>🎥 AI Video Assistant</h3>
+<sub><b>RAG Application</b></sub>
+
+<p>
+Video Q&A system using speech-to-text, embeddings, vector search
+and grounded LLM responses.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square"/>
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+<br/>
+
+<!-- ============ PROJECT HIGHLIGHT ============ -->
+<h2 align="center">📈 Engineering Highlights</h2>
+
+<table align="center">
+
+<tr>
+<td align="center" width="25%">
+⚡<br/>
+<b>500</b><br/>
+<sub>Successful FlashSale Reservations</sub>
+</td>
+
+<td align="center" width="25%">
+🛡️<br/>
+<b>0</b><br/>
+<sub>Overselling During Load Test</sub>
+</td>
+
+<td align="center" width="25%">
+📊<br/>
+<b>200 RPS</b><br/>
+<sub>Peak Load Tested</sub>
+</td>
+
+<td align="center" width="25%">
+🧠<br/>
+<b>1000+</b><br/>
+<sub>DSA Problems Solved</sub>
+</td>
+</tr>
+
+</table>
+
+<br/>
+
+<!-- ============ ACHIEVEMENTS ============ -->
+<h2 align="center">🏆 Achievements</h2>
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="25%">
+⚔️<br/>
+<b>LeetCode Knight</b><br/>
+<sub>Peak Rating 1881</sub>
+</td>
+
+<td align="center" width="25%">
+💻<br/>
+<b>1000+ Problems</b><br/>
+<sub>DSA & Competitive Programming</sub>
+</td>
+
+<td align="center" width="25%">
+⭐<br/>
+<b>CodeChef 3-Star</b><br/>
+<sub>Rating 1614</sub>
+</td>
+
+<td align="center" width="25%">
+🏅<br/>
+<b>AlgoUniversity</b><br/>
+<sub>Rank 17 / 600+</sub>
+</td>
+
+</tr>
+
+</table>
+
+<br/>
+
+<!-- ============ LEADERSHIP ============ -->
+<h2 align="center">👨‍💻 Leadership & Community</h2>
 
 <div align="center">
 
-### Languages
+### Core Member — Development Club, IIIT Nagpur
 
-[![Languages](https://skillicons.dev/icons?i=cpp,python,js,ts,sql\&theme=dark)](https://skillicons.dev)
-
-### Frontend
-
-[![Frontend](https://skillicons.dev/icons?i=react,redux,tailwind,html,css,vite\&theme=dark)](https://skillicons.dev)
-
-### Backend
-
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,fastapi\&theme=dark)](https://skillicons.dev)
-
-### Databases & Infrastructure
-
-[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,rabbitmq\&theme=dark)](https://skillicons.dev)
-
-[![Infrastructure](https://skillicons.dev/icons?i=docker,linux,git,github,postman\&theme=dark)](https://skillicons.dev)
-
-### AI / Agentic AI
-
-`LangChain` · `LangGraph` · `MCP` · `A2A` · `RAG` · `LLMs` · `Vector Databases` · `Embeddings`
-
-### AI Evaluation & Observability
-
-`LangSmith` · `DeepEval` · `Tracing` · `LLM-as-a-Judge` · `Agent Evaluation` · `Regression Testing` · `Guardrails`
+<p>
+Contributing to technical activities, peer learning, development initiatives
+and helping students with software development and engineering concepts.
+</p>
 
 </div>
 
----
+<br/>
 
-## AI / Agentic AI Expertise
+<!-- ============ CURRENT FOCUS ============ -->
+<h2 align="center">🎯 Currently Exploring</h2>
 
-| Domain                  | Focus                                                                               |
-| ----------------------- | ----------------------------------------------------------------------------------- |
-| **Agentic AI**          | Multi-agent orchestration · routing · specialized agents · tool calling             |
-| **LangGraph**           | Stateful workflows · checkpoints · persistence · interrupts · HITL · subgraphs      |
-| **Agent Communication** | MCP · A2A · agent-to-tool and agent-to-agent communication                          |
-| **RAG**                 | Embeddings · semantic retrieval · chunking · vector databases · grounded generation |
-| **Agent Evaluation**    | Routing accuracy · tool selection · argument correctness · trajectory evaluation    |
-| **LLM Evaluation**      | LLM-as-a-Judge · correctness · relevance · groundedness · faithfulness              |
-| **AI Observability**    | Traces · spans · tool calls · agent trajectories · latency · token usage            |
-| **AI Guardrails**       | Policy enforcement · safety checks · tool restrictions · output validation          |
-| **Regression Testing**  | Golden datasets · evaluation suites · automated regression detection                |
+<table align="center">
 
----
+<tr>
 
-# Featured Projects
+<td width="33%" valign="top">
 
-## 🛡️ AI Agent Evaluation & Guardrails Platform
-
-> **A reliability and governance platform for AI agents and multi-agent systems**
-
-A developer platform designed to **evaluate, trace, monitor, and govern AI agents**.
-
-The platform is designed around modern agent communication standards such as **MCP and A2A**, allowing developers to connect agents and tools while observing how agents behave during execution.
-
-### Core Capabilities
-
-* Multi-agent registration and orchestration
-* **A2A** based agent-to-agent communication
-* **MCP** based tool integration
-* Agent routing evaluation
-* Tool-selection accuracy evaluation
-* Tool argument validation
-* Agent trajectory evaluation
-* LLM-as-a-Judge evaluation
-* Deterministic evaluation rules
-* Golden test cases
-* Trace collection and visualization
-* Latency and token monitoring
-* Guardrail and policy enforcement
-* Regression testing for agent workflows
-
-### Evaluation Pipeline
+<h3>⚙️ Backend</h3>
 
 ```text
-User Request
-     ↓
-Orchestrator
-     ↓
-Agent Router
-     ↓
-Specialized Agent
-     ↓
-Tool / MCP Server
-     ↓
-Agent Response
-     ↓
-       ┌──────────────────────┐
-       │   Evaluation Layer   │
-       ├──────────────────────┤
-       │ Routing Accuracy     │
-       │ Tool Selection       │
-       │ Arguments            │
-       │ Trajectory           │
-       │ Correctness          │
-       │ Groundedness         │
-       │ Safety               │
-       └──────────────────────┘
-                 ↓
-        Evaluation Report
+Distributed Systems
+System Design
+Concurrency
+Caching
+Message Queues
+Real-Time Systems
 ```
 
-### Guardrail Layer
+</td>
+
+<td width="33%" valign="top">
+
+<h3>🤖 AI</h3>
 
 ```text
-Agent Request
-      ↓
-Policy Check
-      ↓
-Permission Check
-      ↓
-Tool Validation
-      ↓
-Execution
-      ↓
-Output Validation
-      ↓
-Final Response
+Agentic AI
+RAG
+LangGraph
+Multi-Agent Systems
+MCP
+LLM Applications
 ```
 
-### Focus
+</td>
 
-**Agent Reliability · AI Evaluation · Guardrails · Observability · MCP · A2A · Multi-Agent Systems**
+<td width="33%" valign="top">
 
----
-
-## 📝 Collaborative Notes Platform
-
-> **Real-time collaborative notes application**
-
-A collaborative notes platform designed around real-time editing, backend APIs, and persistent document storage.
-
-### Core Engineering Areas
-
-* REST API architecture
-* Real-time collaboration
-* User authentication and authorization
-* Document and workspace management
-* PostgreSQL for relational data
-* MongoDB for flexible document-oriented data
-* WebSocket-based communication
-* Concurrent update handling
-* API validation and error handling
-
-### Stack
-
-**Node.js · Express.js · PostgreSQL · MongoDB · WebSockets · React · JavaScript**
-
-### Engineering Focus
-
-`Real-Time Systems` · `Database Design` · `REST APIs` · `Concurrency` · `Full Stack Development`
-
----
-
-## 🚗 Drivo — Real-Time Ride Sharing Backend
-
-A real-time ride-matching backend focused on **geospatial queries, WebSockets, asynchronous jobs, and Redis-based state management**.
-
-### Architecture
+<h3>🛡️ Reliability</h3>
 
 ```text
-Rider
-  ↓
-API
-  ↓
-Ride Service
-  ↓
-Redis GEO
-  ↓
-Nearest Drivers
-  ↓
-Socket.IO
-  ↓
-Driver
+Idempotency
+Fault Tolerance
+Load Testing
+Observability
+Evaluation
+Guardrails
 ```
 
-### Stack
+</td>
 
-**Node.js · Express.js · Socket.IO · Redis · BullMQ · JWT**
+</tr>
 
-### Engineering Focus
+</table>
 
-* Redis GEO proximity search
-* Real-time ride state updates
-* Background job processing
-* Retry and timeout handling
-* WebSocket communication
-* Concurrent request handling
+<br/>
 
----
-
-## ✈️ Airline Booking System — Microservices
-
-A distributed airline reservation system built around **microservices, API gateways, asynchronous messaging, authentication, and transactional database operations**.
-
-### Architecture
-
-```text
-Client
-  ↓
-API Gateway
-  ↓
-┌─────────────┬─────────────┐
-│ Flight      │ Booking     │
-│ Service     │ Service     │
-└─────────────┴─────────────┘
-        ↓
-    RabbitMQ
-        ↓
-Notification Service
-```
-
-### Stack
-
-**Node.js · Express.js · RabbitMQ · Sequelize · MySQL · JWT**
-
-### Engineering Focus
-
-`Microservices` · `Event-Driven Architecture` · `Message Queues` · `API Gateway` · `Authentication`
-
----
-
-## 🤖 AI Video Assistant — RAG
-
-An AI-powered video Q&A system that converts video/audio content into a searchable conversational knowledge base.
-
-### Pipeline
-
-```text
-Video
-  ↓
-Whisper
-  ↓
-Transcript
-  ↓
-Semantic Chunking
-  ↓
-Embeddings
-  ↓
-Vector Database
-  ↓
-Retriever
-  ↓
-LLM
-  ↓
-Grounded Answer
-```
-
-### Stack
-
-**Python · LangChain · Whisper · ChromaDB · Mistral AI · Streamlit**
-
-### Engineering Focus
-
-`RAG` · `Embeddings` · `Vector Search` · `Semantic Retrieval` · `LLM Applications`
-
----
-
-# Experience
-
-### Senior Core Member & Technical Mentor
-
-**Elevate Web Development Club — IIIT Nagpur**
-
-`Jan 2024 – Present`
-
-* Mentor developers in backend engineering and REST API design.
-* Conduct sessions on database modeling, asynchronous programming, caching, and message queues.
-* Guide students through microservices and system-design concepts.
-* Review project architectures and provide engineering feedback.
-* Contribute to backend development curriculum and technical workshops.
-
----
-
-# Achievements
+<!-- ============ GITHUB STATS ============ -->
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
-| Achievement                 | Result                    |
-| --------------------------- | ------------------------- |
-| **LeetCode Knight ⚔️**      | Peak Rating **1881**      |
-| **Problem Solving**         | **1000+ Problems Solved** |
-| **CodeChef**                | **3-Star**                |
-| **AlgoUniversity Bootcamp** | **Rank 17 / 600**         |
-| **ESoC Hackathon**          | **3rd Place / 50+ Teams** |
+<img src="https://github-readme-stats.vercel.app/api?username=Abhinav053&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="170" alt="GitHub stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav053&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170" alt="Top languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Abhinav053&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak"/>
+
+<br/><br/>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Knight%20%7C%201000%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
 
 </div>
 
----
+<br/>
 
-# Coding Profiles
-
+<!-- ============ CONNECT ============ -->
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Knight%20%E2%9A%94%EF%B8%8F%20%7C%201000%2B%20Solved-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=white)](https://leetcode.com)
-[![CodeChef](https://img.shields.io/badge/CodeChef-3%E2%98%85-5B4638?style=for-the-badge\&logo=codechef\&logoColor=white)](https://codechef.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Abhinav053-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Abhinav053)
+<h2>📫 Let's Build Something Together</h2>
+
+<p>
+I'm currently exploring opportunities in
+<b>Backend Engineering, Distributed Systems and Agentic AI</b>.
+</p>
+
+<a href="https://www.linkedin.com/in/abhinav-singh">
+<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/Abhinav053">
+<img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
-
----
-
-# Engineering Interests
-
-```yaml
-primary:
-  - Backend Engineering
-  - Distributed Systems
-  - Agentic AI
-  - AI Evaluation
-  - AI Guardrails
-
-backend:
-  - Node.js
-  - Express.js
-  - PostgreSQL
-  - MongoDB
-  - Redis
-  - RabbitMQ
-  - WebSockets
-  - Docker
-
-ai:
-  - LangChain
-  - LangGraph
-  - RAG
-  - MCP
-  - A2A
-  - Multi-Agent Systems
-  - Vector Databases
-
-reliability:
-  - Agent Tracing
-  - Tool Selection Evaluation
-  - Routing Evaluation
-  - Trajectory Evaluation
-  - LLM-as-a-Judge
-  - Golden Test Sets
-  - Regression Testing
-  - Guardrails
-```
-
----
-
-# Current Focus
-
-```yaml
-building:
-  - AI Agent Evaluation & Guardrails Platform
-  - MCP and A2A based multi-agent infrastructure
-  - Agent tracing and evaluation pipelines
-  - Collaborative real-time applications
-
-learning:
-  - Advanced LangGraph orchestration
-  - Agent evaluation methodologies
-  - AI safety and guardrails
-  - Distributed systems
-  - Vector database internals
-  - High-scale backend architecture
-
-exploring:
-  - Multi-agent reliability
-  - Agent routing optimization
-  - Tool-use evaluation
-  - LLM-as-a-Judge systems
-  - AI observability
-  - Production-grade RAG
-
-open_to:
-  - Backend Engineering Internships
-  - AI/ML Engineering Roles
-  - Agentic AI Opportunities
-  - Open Source Collaboration
-  - Research Projects
-```
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhinav053&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9&text_color=C9D1D9&ring_color=6E40C9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav053&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&text_color=C9D1D9&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Abhinav053\&theme=tokyonight\&hide_border=true\&background=0D1117\&ring=6E40C9\&fire=7C3AED\&currStreakLabel=6E40C9\&sideLabels=C9D1D9\&dates=8B949E\&stroke=6E40C9)](https://git.io/streak-stats)
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Abhinav053\&theme=darkhub\&no-frame=true\&no-bg=true\&margin-w=6\&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhinav053\&theme=tokyo-night\&hide_border=true\&bg_color=0D1117\&color=6E40C9\&line=7C3AED\&point=C9D1D9\&area=true\&area_color=6E40C9)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-![Snake Animation](https://raw.githubusercontent.com/Abhinav053/Abhinav053/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-# Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/abhinav-singh)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Abhinav053)
-
-</div>
-
----
-
-<div align="center">
-
-*"Build systems that can explain, evaluate, and improve their own behavior."*
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=100&section=footer"/>
